@@ -1,1 +1,3 @@
 # ALY6020_PREDICTIVE-ANALYTICS
+
+The provided census data pertains to characteristics of US citizens (occupation, education, gender, race). We will build a model with organisations working to ensure equal pay to see how accurately we can classify low- and high-income citizens. Building this model will help us understand which characteristics contribute to affluence and how we can improve policies in the United States. Using proper data cleansing techniques resulted in the highest quality data for modelling the problem. We will interpret the results and make recommendations using the built model.
